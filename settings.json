@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Tokencore_smp.aternos.me",
+    "port": 36111,
     "version": "1.21.1"
   },
   "position": {
